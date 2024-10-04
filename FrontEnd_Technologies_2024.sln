@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_HTML_Introduction", "1_HTML_Introduction\1_HTML_Introduction.vbproj", "{F0DA5F50-9F40-4B79-949B-DF08FC17213B}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2_HTML_With_CSS", "2_HTML_With_CSS\2_HTML_With_CSS.vbproj", "{6E568AEF-6502-42AF-943F-4E802C5A83AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F0DA5F50-9F40-4B79-949B-DF08FC17213B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0DA5F50-9F40-4B79-949B-DF08FC17213B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0DA5F50-9F40-4B79-949B-DF08FC17213B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E568AEF-6502-42AF-943F-4E802C5A83AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E568AEF-6502-42AF-943F-4E802C5A83AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E568AEF-6502-42AF-943F-4E802C5A83AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E568AEF-6502-42AF-943F-4E802C5A83AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
