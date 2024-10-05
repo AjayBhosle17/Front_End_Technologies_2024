@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_HTML_Introduction", "1_HT
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2_HTML_With_CSS", "2_HTML_With_CSS\2_HTML_With_CSS.vbproj", "{6E568AEF-6502-42AF-943F-4E802C5A83AA}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3_Leran_Html_To_Create_Page", "3_Leran_Html_To_Create_Page\3_Leran_Html_To_Create_Page.vbproj", "{A8AB9694-7477-4217-95AB-D784A5966E88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6E568AEF-6502-42AF-943F-4E802C5A83AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E568AEF-6502-42AF-943F-4E802C5A83AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E568AEF-6502-42AF-943F-4E802C5A83AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8AB9694-7477-4217-95AB-D784A5966E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AB9694-7477-4217-95AB-D784A5966E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AB9694-7477-4217-95AB-D784A5966E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AB9694-7477-4217-95AB-D784A5966E88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
